@@ -2,8 +2,7 @@
 
 ## About Me
 
-Hello! I'm Bernard Eugene Griffin Jr, a versatile Data Scientist with a strong foundation in data collection, cleansing, and machine learning. My journey includes a comprehensive 9-month Data Science Program at TripleTen, where I honed my skills in Python, SQL, and various machine learning frameworks.
-
+Hello! I'm Bernard Eugene Griffin Jr, a versatile Data Scientist with a strong foundation in data collection, cleansing, and machine learning.
 ## Skills
 
 - **Data Science:** Python (Pandas, NumPy, Beautiful Soup), SQL, Machine Learning (scikit-learn, NLTK, TensorFlow).
